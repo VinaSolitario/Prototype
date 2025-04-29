@@ -1,6 +1,6 @@
 # Prototype
 # UML DIAGRAM 
-![image](https://github.com/VinaSolitario/Prototype/blob/main/Document%20Prototype%20Design%20Pattern.pdf)
+![image](https://github.com/VinaSolitario/Prototype/blob/main/UMLDIAGRAM_Prototype.jpg)
 
 Implement the diagram.  You must produce the following output:  Disregard the comment.
 
